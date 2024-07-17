@@ -2,7 +2,7 @@
 
 ![](https://github.com/S5477/patterns/blob/main/resourses/patterns.png)
 
-+ ## [Католог](https://github.com/S5477/patterns/blob/main/reports/catalog.md).
+## [Католог](https://github.com/S5477/patterns/blob/main/reports/catalog.md).
 
 ![](https://github.com/S5477/patterns/blob/main/resourses/relation.png)
 

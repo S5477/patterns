@@ -80,3 +80,6 @@
 ## Разобраться в причинах перепроектирования
 ## Как поменяется дизайн
 
+![](https://github.com/S5477/patterns/blob/main/resourses/tab1.2.1.png)
+![](https://github.com/S5477/patterns/blob/main/resourses/tab1.2.2.png)
+
